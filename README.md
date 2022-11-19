@@ -1,10 +1,3 @@
-The result of Figma Tutorial Youtube: https://www.youtube.com/watch?v=ZpJ_z1WNRgA
-
-
-
-
-
-
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/

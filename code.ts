@@ -12,6 +12,7 @@ figma.ui.onmessage = async(pluginMessage) => {
 
   console.log(pluginMessage.imageVariant);
 
+//logic for routing
   if(pluginMessage.darkModeState === true){
     switch(pluginMessage.imageVariant){
      
@@ -43,6 +44,8 @@ figma.ui.onmessage = async(pluginMessage) => {
         break;
     }
   }
+
+ //Logging of the texts
 
   const newPost = selectedVariant.createInstance();
 
